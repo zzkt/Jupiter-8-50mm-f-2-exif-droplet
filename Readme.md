@@ -4,7 +4,7 @@ EXIF Metadata Utility for Exotic Lenses
 
 Author: Nik Gaffney <nik@fo.am>
 
-Based on the Droplet for "MS Super Triplet Perar 35mm f/3.5" by Dirk Rösler
+Based on the Droplet for "MS Super Triplet Perar 35mm f/3.5" by Dirk Rösler (at http://japanexposures.com )
 
 
 Requirements
@@ -12,6 +12,13 @@ Requirements
 
 ExifTool by Phil Harvey http://www.sno.phy.queensu.ca/~phil/exiftool/
 
+
+Install
+-------
+
+Download from here
+
+https://github.com/zzkt/Jupiter-8-50mm-f-2-exif-droplet/raw/master/Jupiter-8%2050mm%20f:2.zip
 
 Description
 -----------
